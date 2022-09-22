@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">My_Budget</string>
+    <string name="action_spend">Sổ chi tiêu</string>
+    <string name="action_analyze">Phân tích</string>
+    <string name="action_schedule">Kế hoạch</string>
+    <string name="action_account">Tài khoản</string>
+
+    <string-array name="items">
+        <item>CHỌN NHÓM</item>
+        <item>---CHI TIÊU---</item>
+        <item>Ăn uống</item>
+        <item>Di chuyển</item>
+        <item>Giải trí</item>
+        <item>Giáo dục</item>
+        <item>Hóa đơn nước</item>
+        <item>Hóa đơn điện</item>
+        <item>Hóa đơn internet</item>
+        <item>Làm đẹp</item>
+        <item>Mua sắm</item>
+        <item>Sức khỏe</item>
+        <item>Thuê nhà</item>
+        <item>Vật nuôi</item>
+        <item>Chi tiêu khác</item>
+
+        <item>---THU NHẬP---</item>
+        <item>Lương</item>
+        <item>Tiền thưởng</item>
+        <item>Trợ cấp</item>
+        <item>Thu nhập khác</item>
+
+        <item>---VAY/NỢ---</item>
+        <item>Cho vay</item>
+        <item>Nợ</item>
+
+    </string-array>
+
+</resources>
